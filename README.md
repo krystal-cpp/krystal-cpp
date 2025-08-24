@@ -1,5 +1,5 @@
 ## Hi, I`m Vlad 👋
-🧑‍💻 Software Engineer, Junior Data Scientist / Data Analyst <br>
+🧑‍💻 Software Engineer <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vlad-senatorov-11aabb32a) 
 
